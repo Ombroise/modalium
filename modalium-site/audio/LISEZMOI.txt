@@ -1,9 +1,0 @@
-Dépose ici tes boucles.
-
-  audio/01.mp3   ->  QR code vers  https://ton-site/?b=01
-  audio/02.mp3   ->  QR code vers  https://ton-site/?b=02
-  audio/03.wav   ->  QR code vers  https://ton-site/?b=03.wav   (autre format : ajoute l'extension)
-
-Image de fond facultative : même nom, en .jpg, .webp ou .png (ex. audio/01.jpg).
-Limite de taille par fichier sur Cloudflare Pages : 25 Mo (un MP3 192 kbps de 5 min fait environ 7 Mo).
-Supprime 00.wav (fichier de test) avant de mettre le site en ligne.
